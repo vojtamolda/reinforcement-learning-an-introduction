@@ -1,0 +1,8 @@
+# macOS Folder Settings
+.DS_Store
+
+# PyCharm Project Folder
+.idea/*
+
+# Python Bytecode
+*.pyc
