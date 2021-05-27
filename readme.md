@@ -56,3 +56,6 @@ If you see a wrong answer, please, let me know by opening an [issue](https://git
 
 
 ## Part II - Approximate Methods
+
+### Chapter 9 - On-policy Prediction with Approximation
+ - [`chapter09.pdf`](chapter09/chapter09.pdf)
