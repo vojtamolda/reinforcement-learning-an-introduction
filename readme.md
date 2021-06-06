@@ -59,3 +59,6 @@ If you see a wrong answer, please, let me know by opening an [issue](https://git
 
 ### Chapter 9 - On-policy Prediction with Approximation
  - [`chapter09.pdf`](chapter09/chapter09.pdf)
+
+### Chapter 10 - On-policy Control with Approximation
+ - [`chapter10.pdf`](chapter10/chapter10.pdf)
