@@ -62,3 +62,7 @@ If you see a wrong answer, please, let me know by opening an [issue](https://git
 
 ### Chapter 10 - On-policy Control with Approximation
  - [`chapter10.pdf`](chapter10/chapter10.pdf)
+
+### Chapter 11 - Off-policy Methods with Approximation
+ - Baird's Counterexample - [`exercise11-03.ipynb`](chapter11/exercise11-03.ipynb)
+ - [`chapter11.pdf`](chapter11/chapter11.pdf)
